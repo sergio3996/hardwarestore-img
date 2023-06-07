@@ -1,0 +1,338 @@
+[
+    {
+        "name": "GPU Gigabyte GeForce RTX 3060 Ti OC 8Gb",
+        "description": "GPU Gigabyte GeForce RTX 3060 Ti OC 8Gb",
+        "cost" : "700",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/3060.jpg"
+    },
+    {
+        "name": "GPU Gigabyte GeForce RTX 3070 EAGLE OC 8Gb",
+        "description": "GPU Gigabyte GeForce RTX 3070 EAGLE OC 8Gb",
+        "cost" : "900",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/3070.jpg"
+    },
+    {
+        "name": "GPU ZOTAC GeForce RTX3050 AMP 8Gb",
+        "description": "ZOTAC GeForce RTX3050 AMP 8Gb",
+        "cost" : "450",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/3050.jpg"
+    },
+    {
+        "name": "GPU Gigabyte Radeon RX7900XT Gaming OC 20Gb",
+        "description": "GPU Gigabyte Radeon RX7900XT Gaming OC 20Gb",
+        "cost" : "1500",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/RX7900XT.jpg"
+    },
+    {
+        "name": "GPU Gigabyte Radeon RX6600 EAGLE 8G",
+        "description": "Gigabyte Radeon RX6600 EAGLE 8G",
+        "cost" : "400",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/RX6600.jpg"
+    },
+    {
+        "name": "GPU Biostar Radeon RX6500XT 4Gb GDDR6",
+        "description": "GPU Biostar Radeon RX6500XT 4Gb GDDR6",
+        "cost" : "300",
+        "category": "graphics",
+        "image": "https://sergio3996.github.io/hardwarestore-img/graphics/RX6500XT.jpg"
+    },
+    {
+        "name": "CPU AMD Ryzen 7 5800X AM4",
+        "description": "CPU AMD Ryzen 7 5800X AM4",
+        "cost" : "350",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/Ryzen7-5800X.jpg"
+    },
+    {
+        "name": "CPU AMD Ryzen 5 7600 AM5",
+        "description": "CPU AMD Ryzen 5 7600 AM5",
+        "cost" : "400",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/Ryzen5-7600.jpg"
+    },
+    {
+        "name": "CPU AMD Ryzen 5 7600X AM5",
+        "description": "AMD Ryzen 5 7600X AM5",
+        "cost" : "450",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/Ryzen5-7600X.jpg"
+    },
+    {
+        "name": "CPU Intel Core i5 12400 Alder Lake 1700",
+        "description": "Intel Core i5 12400 Alder Lake 1700",
+        "cost" : "300",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/IntelCorei5-12400.jpg"
+    },
+    {
+        "name": "CPU Intel Core i7 10700",
+        "description": "Intel Core i7 10700 2.90GHz 16MB LGA1200 10th Gen",
+        "cost" : "400",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/IntelCorei7-10700.jpg"
+    },
+    {
+        "name": "CPU Intel Core i3 13100",
+        "description": "CPU Intel Core i3 13100 Raptor Lake 1700",
+        "cost" : "200",
+        "category": "processors",
+        "image": "https://sergio3996.github.io/hardwarestore-img/processors/IntelCorei3-13100.jpg"
+    },
+    {
+        "name": "Monitor ASUS VP228HE 22″",
+        "description": "Monitor ASUS VP228HE 22″ FHD 75 Hz",
+        "cost" : "120",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/ASUS-VP228HE.jpg"
+    },
+    {
+        "name": "Monitor Hikvision 23,5″",
+        "description": "Monitor Hikvision 23,5″ DS-D5024FN Full HD VGA HDMI",
+        "cost" : "150",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/hikvision-ds-d5024fn.jpg"
+    },
+    {
+        "name": "Monitor ViewSonic VA2433-H 24″",
+        "description": "Monitor ViewSonic VA2433-H 24″",
+        "cost" : "170",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/viewsonic-va2433-h.jpg"
+    },
+    {
+        "name": "Monitor LG 24MP60G-B 24″",
+        "description": "LG 24MP60G-B 24″ 75hz IPS 1Ms AMD FreeSync HDMI DP",
+        "cost" : "190",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/lg-24mp60g-b.jpg"
+    },
+    {
+        "name": "Monitor ASUS VP249HE",
+        "description": "Monitor ASUS VP249HE IPS 75hz",
+        "cost" : "200",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/asus-vp249he.jpg"
+    },
+    {
+        "name": "Monitor Viewsonic XG320Q",
+        "description": "Monitor Viewsonic XG320Q 32″ 2K 175Hz IPS G-Sync",
+        "cost" : "900",
+        "category": "displays",
+        "image": "https://sergio3996.github.io/hardwarestore-img/displays/viewsonic-xg320q.jpg"
+    },
+    {
+        "name": "Cooler Deepcool Gammaxx 400 V2 Red",
+        "description": "Cooler Deepcool Gammaxx 400 V2 Red",
+        "cost" : "35",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/DeepcoolGammaxx-400-V2.jpg"
+    },
+    {
+        "name": "Water cooling Cougar Aqua 120",
+        "description": "Water cooling Cougar Aqua 120",
+        "cost" : "95",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/WatercoolingCougar-Aqua120.jpg"
+    },
+    {
+        "name": "Watercooling Deepcool Castle 240",
+        "description": "Watercooling Deepcool Castle 240 ARGB",
+        "cost" : "130",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/WatercoolingDeepcool-Castle240.jpg"
+    },
+    {
+        "name": "EVGA Liquid RGB water cooling 360",
+        "description": "EVGA Liquid RGB water cooling 360",
+        "cost" : "230",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/evgaliquidwatercooling360.jpg"
+    },
+    {
+        "name": "Water cooling Asus ROG Strix LC II 240",
+        "description": "Water cooling Asus ROG Strix LC II 240",
+        "cost" : "280",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/WatercoolingAsusROGStrixLCII240.jpg"
+    },
+    {
+        "name": "Watercooling Corsair ICUE H150i Elite Capellix",
+        "description": "Watercooling Corsair ICUE H150i Elite Capellix White",
+        "cost" : "300",
+        "category": "cooling",
+        "image": "https://sergio3996.github.io/hardwarestore-img/cooling/WatercoolingCorsairICUEH150iEliteCapellixWhite.jpg"
+    },
+    {
+        "name": "Memoria Kingston Fury Beast 8GB DDR4 3600Mhz",
+        "description": "Memoria Kingston Fury Beast 8GB DDR4 3600Mhz",
+        "cost" : "35",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/KingstonFuryBeast8GBDDR43600Mhz.jpg"
+    },
+    {
+        "name": "Memoria Kingston Fury Beast RGB 8GB DDR4 3200Mhz",
+        "description": "Memoria Kingston Fury Beast RGB 8GB DDR4 3200Mhz",
+        "cost" : "40",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/MemoriaKingstonFuryBeastRGB8GBDDR43200Mhz.jpg"
+    },
+    {
+        "name": "Memoria Kingston Fury Renegade 8GB DDR4 3200Mhz",
+        "description": "Memoria Kingston Fury Renegade 8GB DDR4 3200Mhz",
+        "cost" : "50",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/MemoriaKingstonFuryRenegad%208GBDDR43200Mhz.jpg"
+    },
+    {
+        "name": "Memoria Kingston Fury Renegade RGB 8GB DDR4 3200Mhz",
+        "description": "Memoria Kingston Fury Renegade RGB 8GB DDR4 3200Mhz",
+        "cost" : "75",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/MemoriaKingstonFuryRenegadeRGB8GBDDR43200Mhz.jpg"
+    },
+    {
+        "name": "Patriot Viper Steel 8GB DDR4 3200mhz",
+        "description": "Patriot Viper Steel 8GB DDR4 3200mhz",
+        "cost" : "80",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/PatriotViperSteel8GBDDR43200mhz.jpg"
+    },
+    {
+        "name": "Memoria Kingston Fury Beast RGB 16GB DDR4 3600Mhz White Edition",
+        "description": "Memoria Kingston Fury Beast RGB 16GB DDR4 3600Mhz White Edition",
+        "cost" : "100",
+        "category": "memory",
+        "image": "https://sergio3996.github.io/hardwarestore-img/memory/MemoriaKingstonFuryBeastRGB16GBDDR43600MhzWhiteEdition.jpg"
+    },
+    {
+        "name": "SSD Gigabyte 480gb 2.5″",
+        "description": "SSD Gigabyte 480gb 2.5″",
+        "cost" : "35",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/SSDGigabyte480gb.jpg"
+    },
+    {
+        "name": "Hikvision C100 SSD 240Gb",
+        "description": "Hikvision C100 SSD 240Gb",
+        "cost" : "25",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/HikvisionC100SSD240Gb.jpg"
+    },
+    {
+        "name": "KINGSTON A400 disco ssd 960Gb",
+        "description": "KINGSTON A400 disco ssd 960Gb",
+        "cost" : "60",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/kingstona400discossd960gb.jpg"
+    },
+    {
+        "name": "SSD Kingston FURY Renegade Disipado PCIe 4.0 NVMe M.2 1Tb",
+        "description": "SSD Kingston FURY Renegade Disipado PCIe 4.0 NVMe M.2 1Tb",
+        "cost" : "145",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/SSDKingstonFURYRenegadeDisipadoPCIe4.0NVMeM.21Tb.jpg"
+    },
+    {
+        "name": "SSD Kingston FURY Renegade Disipado PCIe 4.0 NVMe M.2 500Gb",
+        "description": "SSD Kingston FURY Renegade Disipado PCIe 4.0 NVMe M.2 500Gb",
+        "cost" : "105",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/SSDKingstonFURYRenegadeDisipadoPCIe4.0NVMeM.2500Gb.jpg"
+    },
+    {
+        "name": "AORUS SSD PCIe Gen4 5000e 500GB",
+        "description": "AORUS SSD PCIe Gen4 5000e 500GB",
+        "cost" : "75",
+        "category": "storage",
+        "image": "https://sergio3996.github.io/hardwarestore-img/storage/AORUSSSDPCIeGen45000e500GB.jpg"
+    },
+    {
+        "name": "Silla Cooler Master Caliber R1 Purple Gamer",
+        "description": "Silla Cooler Master Caliber R1 Purple Gamer",
+        "cost" : "279",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/illacoolermastercaliberr1purplegamer.jpg"
+    },
+    {
+        "name": "Silla Gamer HHGears XL 500 Series Black and Blue",
+        "description": "Silla Gamer HHGears XL 500 Series Black and Blue",
+        "cost" : "330",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/SillaGamerHHGearsXL500SeriesBlackandBlue.jpg"
+    },
+    {
+        "name": "Silla Cougar Armor Pro Black",
+        "description": "Silla Cougar Armor Pro Black",
+        "cost" : "330",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/SillaCougarArmorProBlack.jpg"
+    },
+    {
+        "name": "Cougar Ranger Gaming Sofa Recliner",
+        "description": "Cougar Ranger Gaming Sofa Recliner",
+        "cost" : "550",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/CougarRangerGamingSofaRecliner.jpg"
+    },
+    {
+        "name": "Silla Gigabyte AGC300 V2",
+        "description": "Silla Gigabyte AGC300 V2",
+        "cost" : "620",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/SillaGigabyteAGC30V2.jpg"
+    },
+    {
+        "name": "Silla Gamer HHGears SM115 Black and Blue",
+        "description": "Silla Gamer HHGears SM115 Black and Blue",
+        "cost" : "165",
+        "category": "chairs",
+        "image": "https://sergio3996.github.io/hardwarestore-img/chairs/SillaGamerHHGearsSM115BlackandBlue.jpg"
+    },
+    {
+        "name": "Teclado Razer Huntsman V2 Tenkeyless Optical Gaming",
+        "description": "Teclado Razer Huntsman V2 Tenkeyless Optical Gaming",
+        "cost" : "200",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/TecladoRazerHuntsmanV2TenkeylessOpticalGaming.jpg"
+    },
+    {
+        "name": "Teclado Razer Huntsman Mini - Opto-Mechanical Switch",
+        "description": "Teclado Razer Huntsman Mini - Opto-Mechanical Switch",
+        "cost" : "120",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/TecladoRazerHuntsmanMini%E2%80%93Opto-MechanicalSwitch.jpg"
+    },
+    {
+        "name": "Teclado Razer Cynosa Lite US",
+        "description": "Teclado Razer Cynosa Lite US",
+        "cost" : "50",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/TecladoRazerCynosaLiteUS.jpg"
+    },
+    {
+        "name": "Mouse Razer Mamba Wireless",
+        "description": "Mouse Razer Mamba Wireless",
+        "cost" : "150",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/mouserazermambawireless.jpg"
+    },
+    {
+        "name": "Mouse Razer DeathAdder v2",
+        "description": "Mouse Razer DeathAdder v2",
+        "cost" : "55",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/MouseRazerDeathAdderv2.jpg"
+    },
+    {
+        "name": "Mouse Razer Basilisk X Hyperspeed",
+        "description": "Mouse Razer Basilisk X Hyperspeed",
+        "cost" : "60",
+        "category": "peripheral",
+        "image": "https://sergio3996.github.io/hardwarestore-img/peripheral/MouseRazerBasiliskXHyperspeed.jpg"
+    }
+]
